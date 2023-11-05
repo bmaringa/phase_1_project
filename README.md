@@ -6,7 +6,7 @@ Microsoft sees all the big companies creating original video content and they wa
 
 To get the results for the above business problem,I developed the following business questions:
 
-1) How many genres are there in the movie industry.
+      1) How many genres are there in the movie industry.
       2) which are the possible genre_combination in the market,a reflection of the tastes demanded by the customers.
       3) How popular is each genre and how does each genre compare with each other in regard to popularity.
       4) Is the  cost of producing individual movie  directly related to  income generated.
